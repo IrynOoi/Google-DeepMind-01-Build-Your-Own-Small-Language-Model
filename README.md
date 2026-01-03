@@ -18,4 +18,5 @@
 
 # Coding Activity 4: Using n-gram probabilities to sample next token
 
-![Uploading image.png…]()
+<img width="432" height="111" alt="image" src="https://github.com/user-attachments/assets/a261bfae-eb06-4301-9236-225877eab3f2" />
+
