@@ -1,3 +1,7 @@
+## COURSE COMPLETED
+<img width="1406" height="77" alt="image" src="https://github.com/user-attachments/assets/917aeed7-e2db-4a80-9502-8514bc89faae" />
+
+
 ## LAB 1 : Lab Experiment With N-grams
 
 # Coding Activity 1: From lists of tokens to n-grams
