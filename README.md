@@ -20,3 +20,21 @@
 
 <img width="432" height="111" alt="image" src="https://github.com/user-attachments/assets/a261bfae-eb06-4301-9236-225877eab3f2" />
 
+## Lab 2: Prepare the Dataset for Training an SLM
+
+# Coding Activity 1: Build a list of all tokens in the dataset
+
+<img width="623" height="237" alt="image" src="https://github.com/user-attachments/assets/6a0ec01b-7ef7-481b-ac85-e971760c2942" />
+
+# Coding Activity 2: Build the vocabulary
+
+<img width="791" height="148" alt="image" src="https://github.com/user-attachments/assets/2a6ae4df-47b8-4251-8509-d67ab21646eb" />
+
+# Coding Activity 3: Build index_to_token
+
+<img width="465" height="124" alt="image" src="https://github.com/user-attachments/assets/74fa78a8-7889-4f4e-9059-ac51ea4e4639" />
+
+
+
+
+
